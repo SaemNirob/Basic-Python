@@ -52,6 +52,8 @@ A **list** in Python is an ordered collection of items enclosed in square bracke
 
 Lists are primarily used for storing and working with **collections of data**. Since they are mutable, you can modify them dynamically, making them ideal for scenarios where the data might change during execution.
 
+---
+
 ## **EXPLORING PYTHON TUPLES:**
 
 ### **WHAT ARE TUPLES IN PYTHON?**
@@ -100,8 +102,7 @@ A set in Python is an unordered collection of unique items enclosed in curly bra
 
 Sets are primarily used for storing **unique collections of data**. They are useful when you need to ensure no duplicate values exist and for performing mathematical set operations like union, intersection, and difference. Sets are often used for membership tests and eliminating duplicates from a collection.
 
-
-## **REPOSITORY CONTENTS:**
+---
 
 ## **REPOSITORY CONTENTS:**
 
